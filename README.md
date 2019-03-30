@@ -4,6 +4,7 @@ Our paper on website UI/UX design using sketch recognition. It was published and
 BibTex:
 
 @incollection{savinaynarendrasheelabhadradeyjosiahcoadsethpolsleytracyhammond2019FreeStyleASketchbasedWireframingToolBookChapters,
+
   author =         {Narendra, Savinay and Dey, Sheelabhadra and Coad, Josiah and Polsley, Seth and Hammond, Tracy},
   
   booktitle =      {Inspiring Students with Digital Ink: Impact of Pen and Touch Technology on Education},
